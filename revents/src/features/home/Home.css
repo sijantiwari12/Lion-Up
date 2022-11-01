@@ -1,0 +1,110 @@
+body {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 26px;
+  
+}
+.main-content {
+    margin-top: 20px;
+}
+
+.ui.fixed.menu, .ui[class*="top fixed"].menu {
+    top: 0;
+    left: 0;
+    right: auto;
+    bottom: 922px;
+}
+
+.ui.menu .item {
+  position: relative;
+  vertical-align: middle;
+  line-height: 2;
+}
+
+.ui.menu .item img.logo {
+  margin-right: 1.5em;
+}
+
+.ui.fixed.menu {
+  background-color: rgb(0, 102, 51);
+}
+
+.ui.main.container,
+.main.segment {
+  margin-top: 3em;
+}
+.body {
+  max-width: 100%;
+}
+
+.ui.center.aligned.segment.attendance-preview {
+  background-color: #f5f5f5;
+}
+
+.masthead .ui.menu .ui.button,
+.ui.menu a.ui.inverted.button {
+  margin-left: 0.5em;
+} 
+
+.ui.menu .item > img:not(.ui) {
+  margin-right: 1.5em !important;
+ 
+}
+
+.ui.menu:not(.vertical) .item > .button {
+  margin-left: 0.5em;
+}
+.segment1 {
+  background-color: rgba(143, 132, 143, 0.267);
+  padding: 10px;
+  text-align: center;
+}
+.segment2 {
+  background-color: rgba(143, 132, 143, 0.267);
+  padding: 10px;
+  text-align: center;
+}
+
+.label-quick-link {
+  text-align: center;
+  border-bottom: 3px solid #4a8548;
+  padding: 3px;
+  font-size: 25px;
+}
+.label-student-engagement {
+  text-align: center;
+  border-bottom: 3px solid #4a8548;
+  padding: 3px;
+  font-size: 25px;
+}
+.card {
+  width: 600px;
+}
+.event-info {
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.label-quick-link {
+  text-align: center;
+  border-bottom: 3px solid #4a8548;
+  padding: 3px;
+  font-size: 25px;
+}
+.quicklink-image {
+  max-width: 160px;
+  height: auto;
+  padding: 5px;
+}
+.se-image {
+  max-width: 160px;
+  height: auto;
+  padding: 10px;
+}
+
+.feed-image {
+  height: auto;
+  max-width: 500px;
+  margin: 5px;
+  padding: 5px;
+}
